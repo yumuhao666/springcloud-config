@@ -18,6 +18,6 @@ hystrix:
           thread:
             timeoutInMilliseconds: 4000
 member:
-  userName: aaa
+  userName: cccccc
 
 
